@@ -25,4 +25,4 @@
 
         System.out.println(isSorted(list));
     }
-}
+
