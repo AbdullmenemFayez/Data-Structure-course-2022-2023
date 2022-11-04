@@ -27,3 +27,5 @@
 <a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/ArrayList/solutions/Q5.java">check whether the arrayList is sorted or not </a>
 <h2>_____________________________________________________</h2>
 <h3>Q6</h3>
+<a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/ArrayList/solutions/Q6.java">, divide the list into k-equal-length lists</a>
+
