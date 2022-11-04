@@ -26,7 +26,7 @@
     public static void splitThree2(ArrayList<Integer> arr) {
         // this solution is without using any datastructures
 
-        int j = 0, k = 1;
+        int j = 0;
 
         for (int i = 0; i < arr.size(); ++i) {
 
