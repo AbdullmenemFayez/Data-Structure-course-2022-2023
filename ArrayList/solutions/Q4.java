@@ -58,4 +58,4 @@
         splitThree2(list);
         System.out.println(list);
 }
-}
+
