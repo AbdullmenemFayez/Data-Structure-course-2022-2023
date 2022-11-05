@@ -51,3 +51,11 @@ Return the array in the form [x1,y1,x2,y2,...,xn,yn].</a>
 <h3>Q9</h3>
 <a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/ArrayList/solutions/Q9.java">
 Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it. That is, for each nums[i] you have to count the number of valid j's such that j != i and nums[j] < nums[i]. Return the answer in an array.</a>
+
+<h2>_____________________________________________________</h2>
+
+
+<h3>Q9<h3>
+<a href="#">
+Implement a function that receives 2 ArrayLists of Integers and returns the intersection of them.
+</a>
