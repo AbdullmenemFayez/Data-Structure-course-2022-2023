@@ -55,7 +55,7 @@ Given the array nums, for each nums[i] find out how many numbers in the array ar
 <h2>_____________________________________________________</h2>
 
 
-<h3>Q9<h3>
+<h3>Q10</h3>
 <a href="#">
 Implement a function that receives 2 ArrayLists of Integers and returns the intersection of them.
 </a>
