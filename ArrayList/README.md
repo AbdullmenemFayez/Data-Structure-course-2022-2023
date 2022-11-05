@@ -37,4 +37,10 @@
 <h3>Q7</h3>
 <a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/ArrayList/solutions/Q7.java">You are given an array list of arraylists (the inner array lists are of size  2   ) each inner list In the form of  [N, value] ,   (you will use N as the number of occurrences of `value`) return an array list of integers which contains each `value` N  times</a>
 
+<h2>_____________________________________________________</h2>
 
+
+<h3>Q8</h3>
+<a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/ArrayList/solutions/Q8.java" target = "_blank">
+Shuffle the array : Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
+Return the array in the form [x1,y1,x2,y2,...,xn,yn].</a>
