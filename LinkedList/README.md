@@ -23,3 +23,11 @@
 <li><a href = "https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></li>
 <li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/LinkedList/solutions/Q3.java">Solution</a></li>
 </ul>
+
+<h2>______________________________________________________________________________________</h2>
+
+<h3>Q4</h3>
+<ul>
+<li>n/3 position : Given the head of a singly linked list, return the n/3 node of the linked list. ( note : n%3 = 0 ) </li>
+<li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/LinkedList/solutions/Q4.java">Solution</a></li>
+</ul>
