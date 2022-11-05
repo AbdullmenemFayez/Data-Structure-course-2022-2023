@@ -56,6 +56,6 @@ Given the array nums, for each nums[i] find out how many numbers in the array ar
 
 
 <h3>Q10</h3>
-<a href="#">
+<a href="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/ArrayList/solutions/Q10.java">
 Implement a function that receives 2 ArrayLists of Integers and returns the intersection of them.
 </a>
