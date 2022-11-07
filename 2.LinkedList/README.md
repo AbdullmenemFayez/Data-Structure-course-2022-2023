@@ -39,3 +39,11 @@
 <li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/reverse.java">Reverse Singly Linked List (with + without recursion) </a></li>
 </ul>
 
+<h2>______________________________________________________________________________________</h2>
+
+<h3>Q6</h3>
+<ul>
+<li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/reverse_between.java">Reverse Singly Linked List between Specific Range </a></li>
+</ul>
+
+
