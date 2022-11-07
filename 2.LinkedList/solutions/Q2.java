@@ -5,9 +5,8 @@ public static void main(String[] args) {
         l.addLast(3);
         l.addLast(4);
         System.out.println(l.toString());
-        MyLinkedList ans = new MyLinkedList<>();;
-        ans.head = rotateLeft(l.head, 1);
-        System.out.println(ans.toString());
+        l.head = rotateLeft(l.head, 1);
+        System.out.println(l.toString());
 
     }
 
