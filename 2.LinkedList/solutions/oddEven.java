@@ -93,22 +93,23 @@ public class oddEven<E> {
     
     // another solution for oddEven method 
     
-   static <E>  oddEvenList(Node<E> head) {
-        if(head == null)return null;
-        
-        Node<E>  odd = head, even = head.next, newHead = even;
-        
+  static  <E> void  oddEvenList(Node<E> head) {
+        if (head == null) {
+            return ;
+        }
+
+        Node<E> odd = head, even = head.next, newHead = even;
+
         while (even != null && odd != null && even.next != null && odd.next != null) {
             odd.next = even.next;
             odd = even.next;
-            
+
             even.next = odd.next;
             even = odd.next;
         }
         odd.next = newHead;
-        return head;
-            
-        
+       
+
     }
 
 }
