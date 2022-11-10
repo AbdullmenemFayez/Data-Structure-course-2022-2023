@@ -51,5 +51,5 @@
 <h3>Q7</h3>
 <ul>
 <li><a href = "https://leetcode.com/problems/odd-even-linked-list/">Odd Even </a></li>
-<li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/oddEven">odd even  class </a></li>
+<li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/oddEven.java">odd even  class </a></li>
 </ul>
