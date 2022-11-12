@@ -72,3 +72,10 @@
 </ul>
 
 
+<h2>______________________________________________________________________________________</h2>
+
+<h3>Q10</h3>
+<ul>
+<li><a href = "https://leetcode.com/problems/partition-list/description/">Partition List</a></li>
+<li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/PartitionList.java">Solution</a></li>
+</ul>
