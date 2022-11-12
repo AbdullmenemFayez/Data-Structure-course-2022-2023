@@ -53,3 +53,22 @@
 <li><a href = "https://leetcode.com/problems/odd-even-linked-list/">Odd Even </a></li>
 <li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/oddEven.java">odd even  class </a></li>
 </ul>
+
+
+<h2>______________________________________________________________________________________</h2>
+
+<h3>Q8</h3>
+<ul>
+<li><a href = "https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/685769712/">Remove Nth Node From End of List</a></li>
+<li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/RemoveNthNode.java">Solution</a></li>
+</ul>
+
+<h2>______________________________________________________________________________________</h2>
+
+<h3>Q9</h3>
+<ul>
+<li><a href = "https://leetcode.com/problems/reorder-list/description/">Reorder List</a></li>
+<li><a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/2.LinkedList/solutions/ReorderList.java">Solution</a></li>
+</ul>
+
+
