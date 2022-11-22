@@ -1,0 +1,32 @@
+public static boolean check(long u) {
+        int four = 0;
+        int seven = 0;
+        while (u > 0) {
+            long dig = u%10;
+            if (dig == 4) four++;
+            if (dig == 7) seven++;
+            u /= 10;
+        }
+        return four == seven && four != 0;
+    }
+ 
+    public static void main(String[] args){
+    //x input from user
+        long ans = Long.MAX_VALUE;
+        Queue<Long> s = new LinkedList<>();
+        s.add(0L);
+        while (!s.isEmpty()) {
+            long u = s.poll();
+            if (check(u) && u >= x) {
+                ans = u;
+                break;
+            }
+            else {
+                s.add(u*10+4);
+                s.add(u*10+7);
+            }
+        }
+ 
+        System.out.println(ans);
+        }
+        
