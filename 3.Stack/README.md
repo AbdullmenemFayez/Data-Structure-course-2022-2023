@@ -30,4 +30,4 @@
 
 <a href = "https://leetcode.com/problems/palindrome-linked-list">Palindrome Linked List</a>
 
-<a href = "">Solution</a>
+<a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/3.Stack/Solutions/Palindrome%20Linked%20List.java">Solution</a>
