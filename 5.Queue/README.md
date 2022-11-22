@@ -10,4 +10,7 @@
 
 <h3>Q3</h3>
 
-<a href = ""></a>
+<a href = "https://codeforces.com/problemset/problem/96/B?f0a28=2&fbclid=IwAR3P8LOjhM9-I3DUb2XLS2PMhnisfgec5Gfc1U5x_pM9HqY4WGldnfZr-jA">Lucky Numbers (easy)</a>
+
+
+<a href = "">Solution</a>
