@@ -13,4 +13,4 @@
 <a href = "https://codeforces.com/problemset/problem/96/B?f0a28=2&fbclid=IwAR3P8LOjhM9-I3DUb2XLS2PMhnisfgec5Gfc1U5x_pM9HqY4WGldnfZr-jA">Lucky Numbers (easy)</a>
 
 
-<a href = "">Solution</a>
+<a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/5.Queue/Solution/lucky_numbers">Solution</a>
