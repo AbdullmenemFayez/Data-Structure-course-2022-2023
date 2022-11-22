@@ -25,3 +25,9 @@
 <a href = "https://leetcode.com/problems/online-stock-span">Online Stock Span</a>
 
 <a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/3.Stack/Solutions/Online%20Stock%20Span.java">Solution</a>
+
+<h3>Q5<h3>
+
+<a href = "https://leetcode.com/problems/palindrome-linked-list">Palindrome Linked List</a>
+
+<a href = "">Solution</a>
