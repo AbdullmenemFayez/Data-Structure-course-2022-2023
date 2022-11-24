@@ -31,3 +31,6 @@
 <a href = "https://leetcode.com/problems/palindrome-linked-list">Palindrome Linked List</a>
 
 <a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/3.Stack/Solutions/Palindrome%20Linked%20List.java">Solution</a>
+
+<h3>Evaluating Expression<h3> 
+<a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/3.Stack/Solutions/evaluateExp.java">A Solution </a>
