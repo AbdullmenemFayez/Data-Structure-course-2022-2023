@@ -12,14 +12,7 @@ public class pangram {
         System.out.println(isPangram1(s));
     }
 
-    //1
-    private static boolean isPangram0(String s) {
 
-        return s.chars().distinct().count() == 26l;
-
-    }
-
-    //2
     private static boolean isPangram1(String s) {
 
         HashSet<Character> c = new HashSet<>();
