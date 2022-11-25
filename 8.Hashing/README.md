@@ -43,9 +43,5 @@
 
 <a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/8.Hashing/Solution/CountSmaller!.java">Solution</a>
 
-<h3> Q8</h3> 
 
-<a href = "https://docs.google.com/document/d/1fNwoDObSfZ6n51GAg1-SbLvvxv3Dy3cLF3PGn-itwpY/edit">Good Pairs </a>
-
-<a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/8.Hashing/Solution/GoodPairs.java">Solution</a>
 
