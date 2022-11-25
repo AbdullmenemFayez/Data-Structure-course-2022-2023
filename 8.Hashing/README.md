@@ -23,4 +23,8 @@
 <a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/8.Hashing/Solution/isGoodString!.java">Solution</a>
 
 
+<h3> Q5 </h3> 
 
+<a href = "https://docs.google.com/document/d/1fNwoDObSfZ6n51GAg1-SbLvvxv3Dy3cLF3PGn-itwpY/edit">Pangram - _ -  </a>
+
+<a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/8.Hashing/Solution/Pangram.java">Solution</a>
