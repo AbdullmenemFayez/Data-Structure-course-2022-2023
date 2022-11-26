@@ -14,3 +14,9 @@
 
 
 <a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/5.Queue/Solution/lucky_numbers">Solution</a>
+
+<h3>Q4</h3>
+
+<a href = "https://docs.google.com/document/d/1ToZnOJbZ8GBeU96vii0HGpLMifgWCT9eE30km7Uket0/edit?usp=sharing">queue exchange random</a>
+
+
