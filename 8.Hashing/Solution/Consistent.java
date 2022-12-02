@@ -1,11 +1,8 @@
-import java.util.*;
 
-public class Consistent {
 
-    public static void main(String[] args) {
+    public  void fun(String allowed , String [] words) {
 
-        String allowed = "andelr";
-        String[] words = {"alaa", "nader", "noor", "abrar", "ahmad"};
+       
 
         Map<Character, Integer> hm = new HashMap<>();
 
@@ -34,4 +31,4 @@ public class Consistent {
         System.out.println(sum);
     }
 
-}
+
