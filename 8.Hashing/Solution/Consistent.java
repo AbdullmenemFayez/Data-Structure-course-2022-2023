@@ -1,9 +1,5 @@
 import java.util.*;
 
-/**
- *
- * @author AlaaDuridi
- */
 public class Consistent {
 
     public static void main(String[] args) {
