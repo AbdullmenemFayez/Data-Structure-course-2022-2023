@@ -1,22 +1,13 @@
-import java.util.HashSet;
-\
-public class pangram {
-
-    public static void main(String[] args) {
-
-        String s = "abcdefghijklmnopqrstuvwxyzabcdefgijklmnopqrstuvwzyzx";
-        System.out.println(isPangram(s));
-    }
 
 
     private static boolean isPangram(String s) {
 
-        HashSet<Character> c = new HashSet<>();
+        HashSet<Character> check = new HashSet<>();
 
         for (int i = 0; i < s.length(); i++) {
-            c.add(s.charAt(i));
+            check.add(s.charAt(i));
         }
-        return c.size() == 26;
+        return check.size() == 26;
 
     }
-}
+
