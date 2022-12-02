@@ -1,19 +1,15 @@
 import java.util.HashSet;
-
-/**
- *
- * @author AlaaDuridi
- */
+\
 public class pangram {
 
     public static void main(String[] args) {
 
         String s = "abcdefghijklmnopqrstuvwxyzabcdefgijklmnopqrstuvwzyzx";
-        System.out.println(isPangram1(s));
+        System.out.println(isPangram(s));
     }
 
 
-    private static boolean isPangram1(String s) {
+    private static boolean isPangram(String s) {
 
         HashSet<Character> c = new HashSet<>();
 
