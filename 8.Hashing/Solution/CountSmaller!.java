@@ -1,15 +1,4 @@
 
-import java.util.Arrays;
-
-public class Smalle_Numbers {
-
-    public static void main(String[] args) {
-
-        int a[] = {4, 2, -7, 8, 10};
-        int ans[] = countSmaller(a);
-        System.out.println(Arrays.toString(ans));
-    }
-
     private static int[] countSmaller(int[] a) {
         int ret[] = new int[a.length];
         int temp[] = a.clone();
@@ -36,4 +25,4 @@ public class Smalle_Numbers {
         }
         return ret;
     }
-}
+
