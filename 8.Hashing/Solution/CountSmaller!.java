@@ -1,10 +1,6 @@
 
 import java.util.Arrays;
 
-/**
- *
- * @author AlaaDuridi
- */
 public class Smalle_Numbers {
 
     public static void main(String[] args) {
