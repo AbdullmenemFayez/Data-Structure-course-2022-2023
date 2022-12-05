@@ -49,3 +49,8 @@
 
 <a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/tree/main/8.Hashing/Solution
 ">Check if a pair exists with given sum in given array</a>
+
+
+<h3> Q9 HashMap easy (1)</h3> 
+
+<a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/8.Hashing/Solution/symmetricPairs.java">Given an array of pairs, find all symmetric pairs in it</a>
