@@ -41,4 +41,9 @@
 
 
 
+ 
+<h3> Q8 HashSet easy (1)</h3> 
+
+<a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/8.Hashing/Solution/subSet.java">Find whether an array is subset of another array</a>
+
 
