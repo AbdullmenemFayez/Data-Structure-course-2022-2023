@@ -39,11 +39,13 @@
 <a href = "https://docs.google.com/document/d/1fNwoDObSfZ6n51GAg1-SbLvvxv3Dy3cLF3PGn-itwpY/edit">Count Smallers ! </a>
 
 
-
-
  
 <h3> Q8 HashSet easy (1)</h3> 
 
 <a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/8.Hashing/Solution/subSet.java">Find whether an array is subset of another array</a>
 
 
+<h3> Q9 HashSet easy (2)</h3> 
+
+<a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/tree/main/8.Hashing/Solution
+">Check if a pair exists with given sum in given array</a>
