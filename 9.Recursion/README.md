@@ -20,15 +20,15 @@
 
 <h3>Q4</h3>
 
-<a href = "">Sum To</a>
+<a href = "https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/9.Recursion/Solution/im/Screenshot%202022-12-14%20191941.png">Sum To</a>
 
-<a href ="">Solution</a>
+<a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/9.Recursion/Solution/sumTo.java">Solution</a>
 
 <h3>Q5</h3>
 
-<a href = "">insert element at bottom of Stack</a>
+<h4>insert element at bottom of Stack</h4>
 
-<a href ="">Solution</a>
+<a href ="https://github.com/AbdullmenemFayez/Data-Structer-course-2022-2023/blob/main/9.Recursion/Solution/insert%20element%20at%20bottom%20of%20Stack.java">Solution</a>
 
 
 <h3>Q6</h3>
