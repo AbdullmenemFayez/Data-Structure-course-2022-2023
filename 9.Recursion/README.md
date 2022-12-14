@@ -18,9 +18,20 @@
 <a href ="">Solution</a>
 
 
+<h3>Q4</h3>
+
+<a href = "">Sum To</a>
+
+<a href ="">Solution</a>
+
+<h3>Q5</h3>
+
+<a href = "">insert element at bottom of Stack</a>
+
+<a href ="">Solution</a>
 
 
-
+<h3>Q6</h3>
 
 <a href = "https://leetcode.com/problems/n-queens-ii/description/?fbclid=IwAR1f6hMkfmmb2brwk5n_85Hd38vA2JK85iwZRalGnuGjxfSEQhQY12VRtvA">N-Queens II</a>
 
