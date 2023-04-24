@@ -54,11 +54,8 @@ class IntersectionSolutions {
     return intersection;
   } // Can be improved in terms of performance, but, the complexity is the same (I will leave it to you ;))
 
-  // O(n ^ 2) solution (WITHOUT USING ANY OTHER DATA STRUCTURE) (Modify the first ArrayList)
+  // O(n ^ 3) solution (WITHOUT USING ANY OTHER DATA STRUCTURE) (Modify the first ArrayList)
   public static ArrayList<Integer> intersection(ArrayList<Integer> a1, ArrayList<Integer> a2) {
-    // A boolean array that indicates whether the element of a2 at index (let's say i) is taken or not.
-    boolean[] taken = new boolean[a2.size()];
-
     for (int i = 0; i < a1.size(); i++) {
       boolean delete = true;
 
@@ -68,7 +65,7 @@ class IntersectionSolutions {
 
         if (a2.get(j) == a1.get(i)) {
           delete = false;
-          taken[j] = true;
+          a2.remove(j);
           break;
         }
       }
