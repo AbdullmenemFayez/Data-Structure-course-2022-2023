@@ -41,8 +41,8 @@
 
 <h2>______________________________________________________________________________________</h2>
 
-<h3>Q6</h3>
+<h3>Q6 (Challenge)</h3>
 
 <a href = "https://codeforces.com/contest/1886/problem/C">Decreasing String</a>
 
-<a href = "3.Stack/Solutions/DecreasingString.java">Solution</a>
+<a href = "Solutions/DecreasingString.java">Solution</a>
