@@ -214,7 +214,7 @@ method header: public static void removeConsecutive(ArrayList<Integer>list, int 
 ---
 ### Problem 10
 
-create a java methode called shuffle 
+create a java method called shuffle 
 Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
 
 Return the array in the form [x1,y1,x2,y2,...,xn,yn].
@@ -235,7 +235,7 @@ Return the array in the form [x1,y1,x2,y2,...,xn,yn].
 
 ### Problem 11
 
-create a java methode called smallerNumbersThanCurrent 
+create a java method called smallerNumbersThanCurrent 
 Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it. That is, for each nums[i] you have to count the number of valid j's such that j != i and nums[j] < nums[i].
 
 Return the answer in an array.
@@ -260,7 +260,7 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 
 ### Problem 12
 
-create a java methode that
+create a java method that
 check whether the arrayList is sorted or not
 #### Example
 
